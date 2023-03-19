@@ -1,0 +1,5 @@
+i
+am
+apke
+The Number of Words starting with Vowel:
+3
